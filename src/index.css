@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif!important;
+}
+
+.list{
+  margin: 15px 15px!important;
+}
+
+.list .item > i.icon{
+  display: inline-block!important;
+}
